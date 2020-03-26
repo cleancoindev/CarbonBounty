@@ -9,3 +9,7 @@ The coder who has joined is in Berlin and codes a Offset smartcontract for block
 This will give us the ability for parnters/owners of our tokens/investors to switch on a switch to pay offsets and 
 Burn Carbon Credit Fiat to offset their GHG/Carbon gas cost to offset their emissions via burned tokenized carbon credits worth 
 100 USDC/ton globally.
+
+My current plan of approach is metamask beta dev extension.
+
+We'll make an extension to activate carbon Offsetting mode with an Offsetting switch on metamask.
