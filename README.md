@@ -1,3 +1,11 @@
+Update 4: This repo is a temporary work place holder until the Mentors and Staff work with me and Extend the deadline.
+
+I will continue work on this, I submitted work to comply to the deadlines.  All deliverables will be delivered by the 8th of Aug if possible but if no extension is granted this project will remain mostly Thought-ware.
+
+There are software I can move to the repo if need be but there is no need to do so yet if the CoVid19 extension is not added by the staff....so I submitted my work to comply to the deadline of submission.
+
+This does not mean this project is done at all, it has indeed just began and the mentors are helping this coming week to prepare it for judgement etc.  Thanks for reading the updates!
+
 # CarbonBounty
 Aiming for the Carbon FootPrint Social Impact Prize of 10k from Blockchain for Social Impact Hackathon
 
